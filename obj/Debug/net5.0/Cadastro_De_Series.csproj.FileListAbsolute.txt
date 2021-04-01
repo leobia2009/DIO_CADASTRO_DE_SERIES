@@ -1,0 +1,10 @@
+C:\Users\Leopoldo\PROJETOS NOVOS\BOOTCAMP LOCALIZA\CURSOS\GIT\WORKSPACE\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.csprojAssemblyReference.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\BOOTCAMP LOCALIZA\CURSOS\GIT\WORKSPACE\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leopoldo\PROJETOS NOVOS\BOOTCAMP LOCALIZA\CURSOS\GIT\WORKSPACE\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.AssemblyInfoInputs.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\BOOTCAMP LOCALIZA\CURSOS\GIT\WORKSPACE\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.AssemblyInfo.cs
+C:\Users\Leopoldo\PROJETOS NOVOS\BOOTCAMP LOCALIZA\CURSOS\GIT\WORKSPACE\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.csproj.CoreCompileInputs.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.csprojAssemblyReference.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.AssemblyInfoInputs.cache
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.AssemblyInfo.cs
+C:\Users\Leopoldo\PROJETOS NOVOS\PROGRAMACAO dotNET\APLICATIVOS\Cadastro_De_Series\obj\Debug\net5.0\Cadastro_De_Series.csproj.CoreCompileInputs.cache
